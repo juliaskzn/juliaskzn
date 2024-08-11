@@ -1,16 +1,15 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 💙
 
-<!--
-**juliaskzn/juliaskzn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é julia correa silva 
+ 
+- Estou estudando no [Alura ](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem do JavaScript
+- Utilizo esse espaço para a minha organização e compartilhamento dos meus projetos
 
-Here are some ideas to get you started:
+  ### Voçê pode entrar em contato comigo 📥
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  00001108575432SP@al.educacao.sp.gov.br
+
+ @juliaskzn 
+
+![](https://media.tenor.com/vTewUjhmAo4AAAAi/cat-cry-reaction.gi)
